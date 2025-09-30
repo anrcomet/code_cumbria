@@ -1,4 +1,4 @@
 # files to ignore from making any changes
 
-*.txt
+* .txt
 
